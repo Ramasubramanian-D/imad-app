@@ -30,5 +30,6 @@ body {
     background-color: black;
     font-family:arial black;
     font-size:25px;
+    opacity:0.2;
     border-radius:5px;
 }
