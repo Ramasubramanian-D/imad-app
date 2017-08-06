@@ -20,11 +20,12 @@ body {
     height: 200px;
 }
 #menu {
+    text-align: center;
     display:inline-block;
     list-style: none;
     margin:0px;
     padding-right:50px;
-    padding-left:100px;
+    padding-left:50px;
     color: white;
     background-color: black;
     font-family:arial black;
