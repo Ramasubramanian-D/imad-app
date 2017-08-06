@@ -33,3 +33,7 @@ body {
     opacity:0.2;
     border-radius:5px;
 }
+#menu:hover {
+    color:  black;
+    background-color: white;
+}
